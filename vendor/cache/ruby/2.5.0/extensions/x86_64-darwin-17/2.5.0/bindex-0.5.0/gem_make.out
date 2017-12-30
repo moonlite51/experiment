@@ -1,0 +1,15 @@
+current directory: /Users/lusiana/Documents/experiment/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/lusiana/.rvm/rubies/ruby-2.5.0/bin/ruby -r ./siteconf20171230-30898-18sc337.rb extconf.rb
+creating Makefile
+
+current directory: /Users/lusiana/Documents/experiment/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/lusiana/Documents/experiment/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/lusiana/Documents/experiment/vendor/cache/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20171230-30898-9ro08a/bindex
